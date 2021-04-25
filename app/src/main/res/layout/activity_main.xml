@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context="com.example.exemple_sqlite.Exemple_SQLite">
 
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <!--uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     
     
     <TextView

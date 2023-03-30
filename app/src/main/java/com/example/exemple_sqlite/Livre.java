@@ -8,7 +8,9 @@ public class Livre {
     private String titre;
 
     // Constructeur de la classe Livre
-    public Livre(){}
+    public Livre(){
+
+    }
     public Livre(String isbn, String titre){
         this.isbn = isbn;
         this.titre = titre;
